@@ -1,6 +1,6 @@
 ## Welcome!! ✌
 
-#### Atualmente faço faculdade de ciência da computação de Ciência da Computação e estudo o universo do Javascript.
+#### 🎓 Atualmente faço faculdade de Ciência da Computação e estudo o universo do Javascript.
 
 🖥 As tecnologias que atualmente me dedico são Javascript, Typescript, NodeJS, React, Rest APIs e banco de dados.
 
