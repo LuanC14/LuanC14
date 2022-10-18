@@ -4,7 +4,7 @@
 
 🖥 As tecnologias que atualmente me dedico são Javascript, Typescript, NodeJS, React, Rest APIs e banco de dados.
 
-⚡ Futuramente busco me aprofundar também em outras linguagens como o Java e também conhecer o Framework Electron.JS
+⚡ Busco me aprofundar futuramenteem outras linguagens como o Java e também dominar o Framework Electron.JS
 
  <hr>
  
