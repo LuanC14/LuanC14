@@ -1,4 +1,4 @@
-## Welcome!! ✌
+## Olá ✌
 
 #### 🎓 Atualmente faço faculdade de Ciência da Computação e estudo o universo do Javascript, através do Explorer, programa de treinamento fullstack da Rocketseat.
 
