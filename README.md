@@ -2,10 +2,6 @@
 
 #### 🎓 Atualmente faço faculdade de Ciência da Computação e estudo o universo do Javascript, através do Explorer, programa de treinamento fullstack da Rocketseat.
 
-🖥 As tecnologias que atualmente me dedico são Javascript, Typescript, NodeJS, React, Rest APIs e banco de dados.
-
-⚡ Busco me aprofundar futuramente outras linguagens, como o Java e também dominar o Framework Electron.JS
-
  <hr>
  
 <div align="center">
