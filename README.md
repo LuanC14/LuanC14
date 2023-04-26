@@ -1,7 +1,8 @@
-## Olá ✌
 
-#### 🎓 Atualmente faço faculdade de Ciência da Computação e estudo o universo do Javascript.
-
+## 🎓 Bachalerando em Ciências da computação e desenvolvedor Web FullStack.
+###   💻 No momento utilizo as tecnologias: HTML, CSS, Javascript, Node, React, Express, MySQL e JEST.
+####  📚 Estou estudando: Java, SpringBoot, MongoDB e Docker.
+##### 🔎 Pretendo posteriormente adquirir conhecimentos sobre Typescript, Next, React Native, Nest, Prisma e Fastify.
  <hr>
  
 <div align="center">
@@ -16,9 +17,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=24px; />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=24px; />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=24px;/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width=24px; />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=24px; />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width=24px; />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width=24px;/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=24px; />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=24px; />
           
+ 
+        
           
+         
 
 </div>
 
