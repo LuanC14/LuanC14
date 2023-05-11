@@ -1,7 +1,7 @@
 
 ## 🎓 Cursando Ciências da computação e desenvolvedor Web FullStack.
 ####  💻 No momento utilizo as tecnologias: HTML, CSS, Javascript, Node, React, Express, SQLite e JEST.
-####  📚 Estou estudando: Java, SpringBoot, PostgreSQL, MongoDB e Docker.
+####  📚 Estou estudando: Java, SpringBoot, PostgreSQL e MongoDB.
 ####  🔎 Pretendo posteriormente adquirir conhecimentos sobre Typescript, Next, React Native, Nest, Prisma e Fastify.
  <hr>
  
