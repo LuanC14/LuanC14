@@ -1,4 +1,3 @@
-
 # Desenvolvedor Web FullStack
 
 ### 🎓 Olá, tenho 22 anos, estou cursando ciências da computação e sou desenvolvedor Web fullstack.
@@ -30,6 +29,9 @@
   <a href="https://instagram.com/luaannp" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
+  <a href="https://wa.me/+5574991992796" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+  </a>
 </div>
 
 <hr>
@@ -45,5 +47,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=32px; />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=32px; /> 
 </div>
-
-
