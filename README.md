@@ -1,19 +1,39 @@
 
-## 🎓 Cursando Ciências da computação e desenvolvedor Web FullStack.
-####  💍 Principais Stacks: HTML, CSS, Javascript, Node, React, Express e Jest.
-####  💍 Stacks secundárias: Java e Springboot.
-####  🗄  Stacks de banco de dados: SQLite, MySQL e MongoDB.
-####  ⚙  Ferramentas: Docker, Postman, AWS-S3, Render e Netfly.
-####  📚 Estou estudando: Typescript, React Native e PostgreSQL.
-####  🔎 Pretendo posteriormente adquirir conhecimentos sobre Next, Electron, Nest e RabbitMQ
- <hr>
+# Desenvolvedor Web FullStack
+
+### 🎓 Olá, tenho 22 anos, estou cursando ciências da computação e sou desenvolvedor Web fullstack.
+
+ #### 💻 As principais stacks que utilizo hoje são Javascript, Typescript, Express e React, mas também atuo com Java, utilizando o framework Spring. 
  
-<div align="center">
+ #### ⚙️ Bancos de dados e ferramentas que possuo experiência:
+- SQLite, MySQL e MongoDB
+- Docker, Postman, Insomnia, Swagger, AWS-S3, Linux, Render e Netfly
+
+#### 📚 Tecnologias que pretendo conhecer:
+- Next, Nest, Electron, React Native, PostgreSQL e RabbitMQ
+
+<hr>
+
+<div>
   <a href="https://github.com/LuanC14">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanC14&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+ 
+ ####
+ <div> 
+  <a href="https://www.linkedin.com/in/luan-chrystian-pimentel-santos-567666221/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>  
+  <a href = "mailto:luanchr14@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://instagram.com/luaannp" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+</div>
 
-##
+<hr>
+ 
 <div style="display: inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=32px; />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=32px; />
@@ -23,14 +43,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=32px;/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=32px; />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=32px; />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=32px; />
-          
-          
- 
-        
-          
-         
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=32px; /> 
 </div>
 
 
