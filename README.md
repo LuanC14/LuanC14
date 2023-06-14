@@ -6,7 +6,7 @@
  
  #### ⚙️ Bancos de dados e ferramentas que possuo experiência:
 - SQLite, MySQL e MongoDB
-- Docker, Postman, Insomnia, Swagger, AWS-S3, Linux, Render e Netfly
+- Docker, Postman, Insomnia, Jest, Swagger, AWS-S3, Linux, Render e Netfly
 
 #### 📚 Tecnologias que pretendo conhecer:
 - Next, Nest, Electron, React Native, PostgreSQL e RabbitMQ
