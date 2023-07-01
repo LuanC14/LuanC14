@@ -1,14 +1,16 @@
-# Desenvolvedor Web FullStack
+## 🎓 Olá, tenho 22 anos, sou desenvolvedor Full Stack e acadêmico em ciência da computação.
 
-### 🎓 Olá, tenho 22 anos, estou cursando ciências da computação e sou desenvolvedor Web fullstack.
-
- #### 💻 As principais stacks que utilizo hoje são Javascript, Typescript, Express e React, mas também atuo com Java, utilizando o framework Spring. 
+ #### 💻 As principais stacks que utilizo hoje são Typescript, Express, React, Java e Spring Boot.
  
  #### ⚙️ Bancos de dados e ferramentas que possuo experiência:
 - SQLite, MySQL e MongoDB
 - Docker, Postman, Insomnia, Jest, Swagger, AWS-S3, Linux, Render e Netfly
 
-#### 📚 Tecnologias que pretendo conhecer:
+### 📚 No momento estou estudando: 
+JUnit, Mockito, microsserviços e sistema de mensageirias.
+
+
+#### 🔎 Tecnologias que pretendo conhecer:
 - Next, Nest, Electron, React Native, PostgreSQL e RabbitMQ
 
 <hr>
