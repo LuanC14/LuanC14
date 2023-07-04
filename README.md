@@ -7,7 +7,7 @@
 - Docker, Postman, Insomnia, Jest, Swagger, AWS-S3, Linux, Render e Netfly
 
 ### 📚 No momento estou estudando: 
-- JUnit, Mockito, microsserviços e sistema de mensageirias.
+- JUnit, Mockito, microsserviços e sistemas de mensageiria.
 
 
 #### 🔎 Tecnologias que pretendo conhecer:
