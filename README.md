@@ -9,10 +9,6 @@
 ### 📚 No momento estou estudando: 
 - JUnit, Mockito, microsserviços e sistemas de mensageiria.
 
-
-#### 🔎 Tecnologias que pretendo conhecer:
-- Next, Nest, Electron, React Native, PostgreSQL e RabbitMQ
-
 <hr>
 
 <div>
