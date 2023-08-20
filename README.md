@@ -1,13 +1,21 @@
-## 🎓 Olá, tenho 22 anos, sou desenvolvedor Full Stack e acadêmico em ciência da computação.
+📌 Desenvolvedor full stack e acadêmico em Ciências da Computação.
 
- #### 💻 As principais stacks que utilizo hoje são Typescript, Express, React, Java e Spring Boot.
- 
- #### ⚙️ Bancos de dados e ferramentas que possuo experiência:
-- SQLite, MySQL e MongoDB
-- Docker, Postman, Insomnia, Jest, Swagger, AWS-S3, Linux, Render e Netfly
+🖥 As linguagens que trabalho são Typescript e Java, possuindo experiência com os frameworks/libs, Express, Spring Boot e React. 
 
-### 📚 No momento estou estudando: 
-- JUnit, Mockito, microsserviços e sistemas de mensageiria.
+🗄️ Bancos de dados que possuo experiência:
+SQLite; MySQL; MongoDB.
+
+⚙️ Demais ferramentas e frameworks que utilizo:
+Docker; Kubernetes;
+Kafka; KsqlDB;
+JUnit; Jest;
+Mongoose; Hibernate; TypeORM;
+Styled-Components; TailwindCSS;
+
+💼 Abordagens de desenvolvimento:
+Event-Driven Architeture; Behavior Driven Development (BDD); Domain-Driven Design (DDD); Scrum.
+
+📚 No momento estou me aprofundando em sistemas mensageirias e microsserviços.
 
 <hr>
 
