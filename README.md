@@ -2,7 +2,7 @@
 
 🖥 As linguagens que trabalho são Typescript, Java e Kotlin. Possuo experiência com as tecnologias: Express, Spring Boot, React, Android Studio e Kafka.
 
-🗄️SGBDs que utilizo:
+🗄️ SGBDs que utilizo:
 SQLite, H2, PostgreSQL, MySQL e MongoDB.
 
 ⚙️ Outras tecnologias que utilizo:
