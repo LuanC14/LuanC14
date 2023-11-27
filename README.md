@@ -1,20 +1,18 @@
 📌 Desenvolvedor Full stack e acadêmico em Ciências da Computação.
 
-🖥 As linguagens que trabalho são Typescript, Java e Kotlin. Possuo experiência com as tecnologias: Express, Spring Boot, React, Android Studio e Kafka.
-
-🗄️ SGBDs que utilizo:
-SQLite, H2, PostgreSQL, MySQL e MongoDB.
+🖥 As linguagens que trabalho são Typescript e Java. Possuo experiência com as tecnologias: Express, Nest, Spring Boot, React, Next e React Native.
 
 ⚙️ Outras tecnologias que utilizo:
-Docker, Kubernetes, KSQL,
-Mongoose, JPA, TypeORM,
-Styled-Components, TailwindCSS,
-JUnit, Jest.
+Docker, Kubernetes, Kafka;
+Mongoose, JPA, TypeORM;
+Redux, Zod, Prisma;
+Styled-Components, TailwindCSS;
+JUnit, Jest;
 
 💼 Abordagens de desenvolvimento:
-Event-Driven Architeture, Behavior Driven Development, Domain-Driven Design, Scrum.
+Event-Driven Architeture, Behavior Driven Development e Domain-Driven Design.
 
-📚 Venho me aprofundando em desenvolvimento backend com Java, sistemas de mensageria com Kafka, desenvolvimento android nativo com Kotlin e microsserviços.
+📚 Venho me aprofundando em desenvolvimento backend com Java (Spring) e Node (Nest), sistemas de mensageria com Kafka, desenvolvimento mobile com React Native, desenvolvimento Front-End com React (Next) e microsserviços.
 
 <hr>
 
@@ -44,16 +42,15 @@ Event-Driven Architeture, Behavior Driven Development, Domain-Driven Design, Scr
 <div style="display: inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=32px;/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=32px; />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=32px; />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width=32px; />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=32px; />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=32px; />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width=32px />       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=32px; />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=32px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=32px; />          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=32px; />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width=32px; />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width=32px; />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width=32px; />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width=32px />
 </div>
