@@ -1,18 +1,14 @@
 📌 Desenvolvedor Full stack e acadêmico em Ciências da Computação.
 
-🖥 As linguagens que trabalho são Typescript e Java. Possuo experiência com as tecnologias: Express, Nest, Spring Boot, React, Next e React Native.
+🖥 As linguagens que trabalho são Java e Typescript/Javascript. Possuo experiência com as tecnologias: Node, Nest, Spring Boot, React e React Native.
 
-⚙️ Outras tecnologias que utilizo:
-Docker, Kubernetes, Kafka;
-Mongoose, JPA, TypeORM;
-Redux, Zod, Prisma;
-Styled-Components, TailwindCSS;
-JUnit, Jest;
+⚙️ Algumas ferramentas e bibliotecas que trabalho:
+Docker, Kubernetes, Confluent Kafka, Mongoose, Hibernate, TypeORM, Fastify, Express, Prisma, JUnit, Jest...
 
-💼 Abordagens de desenvolvimento:
+💼 Abordagens de desenvolvimento que possuo experiência:
 Event-Driven Architeture, Behavior Driven Development e Domain-Driven Design.
 
-📚 Venho me aprofundando em desenvolvimento backend com Java (Spring) e Node (Nest), sistemas de mensageria com Kafka, desenvolvimento mobile com React Native, desenvolvimento Front-End com React (Next) e microsserviços.
+📚 Venho me aprofundando em desenvolvimento backend com Java (Spring) e Node (Nest), sistemas de mensageria com Kafka, microsserviços e blockchains.
 
 <hr>
 
