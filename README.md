@@ -1,24 +1,21 @@
 📌 Desenvolvedor Full stack e acadêmico em Ciências da Computação.
 
-🖥 Backend (Main)
+🖥 Backend (Main) </br>
 Java, Spring Boot, Node, Typescript, Nest, Express e Fastify.
 
-🗄 Banco de dados
-PostgreSQL, MySQL, SQL Server e Oracle.
+🗄 Banco de dados e ORM's  </br>
+PostgreSQL, MySQL, SQL Server e Oracle, Prisma, TypeORM e Hibernate.
 
-🗄 ORM'S
-Prisma, TypeORM e Hibernate.
-
-🌐 Frontend
+🌐 Frontend  </br>
 HTML, CSS, Javascript, JQuery, React, Styled-Componentes, Tailwind e e Figma.
 
-⚙️ Ferramentas
+⚙️ Ferramentas  </br>
 Docker, Kubernates, Kafka, Vitest, Jest, JUnit, Jenkins, Git, GitLab, GitHub e DockerHub.
 
-💼 Abordagens
+💼 Abordagens  </br>
 SOLID, DDD, TDD, Clean Arch, Reactive progamming, Event-Driven Architeture e Agile.
 
-📚 Estudos
+📚 Estudos  </br>
 Venho me aprofundando em desenvolvimento backend com Java e Node, sistemas de mensageria, CI/CD, testes unitários, E2E e microsserviços.
 
 
@@ -49,8 +46,8 @@ Venho me aprofundando em desenvolvimento backend com Java e Node, sistemas de me
  
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width=40px; />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width=40px; />      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=40px; />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width=40px; />      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=40px; />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width=40px; />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width=40px />
