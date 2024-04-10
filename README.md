@@ -4,7 +4,7 @@
 Java, Spring Boot, Node, Typescript, Nest, Express e Fastify.
 
 🗄 Banco de dados e ORM's  </br>
-PostgreSQL, MySQL, SQL Server e Oracle, Prisma, TypeORM e Hibernate.
+PostgreSQL, MySQL, SQL Server, Oracle, Prisma, TypeORM e Hibernate.
 
 🌐 Frontend  </br>
 HTML, CSS, Javascript, JQuery, React, Styled-Componentes, Tailwind e e Figma.
