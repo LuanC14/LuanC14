@@ -1,22 +1,26 @@
 📌 Desenvolvedor Full stack e acadêmico em Ciências da Computação.
 
-🖥 Backend (Main) <br>
+🖥 Backend (Main)
 Java, Spring Boot, Node, Typescript, Nest, Express e Fastify.
 
-🗄 Banco de dados <br>
-PostgreSQL, MySQL, SQL Server, Oracle | Knex, Prisma, TypeORM e Hibernate.
+🗄 Banco de dados
+PostgreSQL, MySQL, SQL Server e Oracle.
 
-🌐 Frontend <br>
-HTML, CSS, Javascript, JQuery, React, Styled-Componentes, Tailwind, React Native e Figma.
+🗄 ORM'S
+Prisma, TypeORM e Hibernate.
 
-⚙️ Ferramentas <br>
-Docker, Kubernates, Kafka, Jupyter, Vitest, JUnit, Jest, Jenkins, Git, GitLab, GitHub e DockerHub.
+🌐 Frontend
+HTML, CSS, Javascript, JQuery, React, Styled-Componentes, Tailwind e e Figma.
 
-💼 Abordagens <br>
-SOLID, Programação reativa, Event-Driven Architeture, Behavior Driven Development, Domain-Driven Design e metodologias ágeis.
+⚙️ Ferramentas
+Docker, Kubernates, Kafka, Vitest, Jest, JUnit, Jenkins, Git, GitLab, GitHub e DockerHub.
 
-📚 Estudos <br>
-Venho me aprofundando em desenvolvimento backend com Java (Spring) e Node (Nest e Fastify), sistemas de mensageria com Kafka, microsserviços, analise e estatística para IA com Python.
+💼 Abordagens
+SOLID, DDD, TDD, Clean Arch, Reactive progamming, Event-Driven Architeture e Agile.
+
+📚 Estudos
+Venho me aprofundando em desenvolvimento backend com Java e Node, sistemas de mensageria, CI/CD, testes unitários, E2E e microsserviços.
+
 
 <hr>
 
@@ -44,17 +48,22 @@ Venho me aprofundando em desenvolvimento backend com Java (Spring) e Node (Nest 
 <hr>
  
 <div style="display: inline_block"><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=32px;/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=32px; />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=32px; />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=32px; />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width=32px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width=32px />       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=32px; />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=32px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=32px; />          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=32px; />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width=32px; />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width=32px; />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width=32px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width=50px; />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=50px; />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width=50px; />      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=50px; />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width=50px; />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width=50px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" width=50px; />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width=50px; />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50px; />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=50px; />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width=50px; />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width=50px; />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=50px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=50px; />          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=50px; />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width=50px; />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width=50px; />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width=50px />
 </div>
