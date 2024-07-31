@@ -1,21 +1,27 @@
-📌 Desenvolvedor Full stack e acadêmico em Ciências da Computação.
+📌 Desenvolvedor de software fullstack e acadêmico em Ciências da Computação.
 
-🖥 Backend (Main) </br>
-Java, Spring Boot, Node, Typescript, Nest, Express e Fastify.
+ Sou desenvolvedor fullstack, com proficiência nos ecossistemas do Java e Node. Profissionalmente possuo experiência desde sistemas legados, até tecnologias mais atuais. Atuei em várias etapas do desenvolvimento de software, como desenvolvimento de features, testes unitários, testes de integração, CI/CD, e participação ativa na análise da regra de negócio. Tenho atuações diretas em sistemas de mensageria, através da plataforma Kafka, e o uso de suas ferramentas, como o KsqlDB e Kafka Connect. Kubernetes, Docker, Github Actions, Jenkins e Grafana são algumas das ferramentas infraestruturais que possuo experiência.
 
-🗄 Banco de dados e ORM's  </br>
-PostgreSQL, MySQL, SQL Server, Oracle, Prisma, TypeORM e Hibernate.
 
-🌐 Frontend  </br>
-HTML, CSS, Javascript, JQuery, React, Styled-Componentes, Tailwind e e Figma.
+Segue abaixo stacks que possuo experiência:
 
-⚙️ Ferramentas  </br>
-Docker, Kubernates, Kafka, Vitest, Jest, JUnit, Jenkins, Git, GitLab, GitHub e DockerHub.
 
-💼 Abordagens  </br>
-SOLID, DDD, TDD, Clean Arch, Reactive progamming, Event-Driven Architeture e Agile.
+🖥 Backend (Main)
+Sendo minha principal area de atuação, tenho proficiência com as seguintes tecnologias: Java, Java EE, Spring Boot, TS/JS, Node, Nest, Express e Fastify.
 
-📚 Estudos  </br>
+🗄 Dados
+Possuo conhecimentos sólidos em SQL, implementação de SGBD's como PostgreSQL e MySQL, além do uso dos principais ORM's do Java e Node, como Hibernate e Prisma.
+
+🌐 Frontend
+Possuo conhecimento no desenvolvimento frontend com HTML, CSS, Javascript Vanilla e também com o uso de bibliotecas e facilitadores como JQuery, React, Styled-Componentes e Tailwind.
+
+💼 Abordagens
+Dentro do desenvolvimento, busco implementar as principais boas práticas da engenharia de software, como o SOLID para os sistemas orientados a objetos, e o uso de patterns como DDD, TDD e Clean Architecture, para uma melhor performance de trabalho em grupo, mantendo a qualidade de software em um contexto ágil. 
+
+⚙️ Demais ferramentas
+Possuo vivências profissionais e pessoais com as ferramentas Docker e Kubernetes. Uso de frameworks de testes com JUnit, Jest e Vitest, e realização de processos de CI com Jenkins e Github Actions.
+
+📚 Estudos
 Venho me aprofundando em desenvolvimento backend com Java e Node, sistemas de mensageria, CI/CD, testes unitários, E2E e microsserviços.
 
 
@@ -28,7 +34,7 @@ Venho me aprofundando em desenvolvimento backend com Java e Node, sistemas de me
  
  ####
  <div> 
-  <a href="https://www.linkedin.com/in/luan-chrystian-pimentel-santos-567666221/" target="_blank">
+  <a href="https://www.linkedin.com/in/luanc14/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>  
   <a href = "mailto:luanchr14@gmail.com">
@@ -43,24 +49,3 @@ Venho me aprofundando em desenvolvimento backend com Java e Node, sistemas de me
 </div>
 
 <hr>
- 
-<div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width=40px; />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=40px; />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width=40px; />      
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=40px; />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width=40px; />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width=40px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" width=40px; />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width=40px; />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=40px; />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40px; />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width=40px; />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width=40px; />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=40px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=40px; />          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=40px; />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width=40px; />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width=40px; />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width=40px />
-</div>
