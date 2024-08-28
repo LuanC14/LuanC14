@@ -1,29 +1,18 @@
-📌 Desenvolvedor de software fullstack e acadêmico em Ciências da Computação.
-
- Sou desenvolvedor fullstack, com proficiência nos ecossistemas do Java e Node. Profissionalmente possuo experiência desde sistemas legados, até tecnologias mais atuais. Atuei em várias etapas do desenvolvimento de software, como desenvolvimento de features, testes unitários, testes de integração, CI/CD, e participação ativa na análise da regra de negócio. Tenho atuações diretas em sistemas de mensageria, através da plataforma Kafka, e o uso de suas ferramentas, como o KsqlDB e Kafka Connect. Kubernetes, Docker, Github Actions, Jenkins e Grafana são algumas das ferramentas infraestruturais que possuo experiência.
-
+📌 Sou desenvolvedor de software Full stack, com proficiência nos ecossistemas do Java, Kotlin e Node. Profissionalmente possuo experiência desde sistemas legados, até tecnologias mais atuais. Atuei em várias etapas do desenvolvimento de software, como desenvolvimento de features, testes unitários, testes de integração, CI/CD, e participação ativa na análise da regra de negócio. Tenho atuação como engenheiro de dados, utilizando o sistema de mensageria Kafka, com suas ferramentas KsqlDB, Kafka Connect, Kafka Streams, e outras do seu ecossistema. Kubernetes, Docker, Github Actions, Jenkins e Grafana são algumas das ferramentas infraestruturais que possuo experiência
 
 Segue abaixo stacks que possuo experiência:
 
+🖥Linguagens e Frameworks
+Java, Kotlin, Typescript, Javascript, Node, Spring Boot, JPEE, JSF, Nest, Express, Fastify, HTML, CSS, React e JQuery.
 
-🖥 Backend (Main)
-Sendo minha principal area de atuação, tenho proficiência com as seguintes tecnologias: Java, Java EE, Spring Boot, TS/JS, Node, Nest, Express e Fastify.
+🗄 Banco de dados
+PostgreSQL, SQL Server, Oracle, MySQL, MongoDB, Hibernate, Prisma e Mongoose.
 
-🗄 Dados
-Possuo conhecimentos sólidos em SQL, implementação de SGBD's como PostgreSQL e MySQL, além do uso dos principais ORM's do Java e Node, como Hibernate e Prisma.
-
-🌐 Frontend
-Possuo conhecimento no desenvolvimento frontend com HTML, CSS, Javascript Vanilla e também com o uso de bibliotecas e facilitadores como JQuery, React, Styled-Componentes e Tailwind.
+⚙️Ferramentas, testes e pipelines.
+Possuo experiências profissionais e pessoais com as ferramentas Docker e Kubernetes. Uso de frameworks de testes com JUnit, Jest e Vitest. Realização de processos de CI, juntamente com controle de qualidade com Jenkins, Github Actions e SonarQube. Realização de tratamento e manejo de dados via sistemas de mensageria com Kafka, Kafka Connect, Kafka Streams e outras ferramentas do seu ecossistema.
 
 💼 Abordagens
 Dentro do desenvolvimento, busco implementar as principais boas práticas da engenharia de software, como o SOLID para os sistemas orientados a objetos, e o uso de patterns como DDD, TDD e Clean Architecture, para uma melhor performance de trabalho em grupo, mantendo a qualidade de software em um contexto ágil. 
-
-⚙️ Demais ferramentas
-Possuo vivências profissionais e pessoais com as ferramentas Docker e Kubernetes. Uso de frameworks de testes com JUnit, Jest e Vitest, e realização de processos de CI com Jenkins e Github Actions.
-
-📚 Estudos
-Venho me aprofundando em desenvolvimento backend com Java e Node, sistemas de mensageria, CI/CD, testes unitários, E2E e microsserviços.
-
 
 <hr>
 
