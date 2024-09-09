@@ -2,16 +2,16 @@
 
 Segue abaixo stacks que possuo experiência:
 
-🖥Linguagens e Frameworks
+🖥Linguagens e Frameworks <br>
 Java, Kotlin, Typescript, Javascript, Node, Spring Boot, JPEE, JSF, Nest, Express, Fastify, HTML, CSS, React e JQuery.
 
-🗄 Banco de dados
+🗄 Banco de dados <br>
 PostgreSQL, SQL Server, Oracle, MySQL, MongoDB, Hibernate, Prisma e Mongoose.
 
-⚙️Ferramentas, testes e pipelines.
+⚙️Ferramentas, testes e pipelines. <br>
 Possuo experiências profissionais e pessoais com as ferramentas Docker e Kubernetes. Uso de frameworks de testes com JUnit, Jest e Vitest. Realização de processos de CI, juntamente com controle de qualidade com Jenkins, Github Actions e SonarQube. Realização de tratamento e manejo de dados via sistemas de mensageria com Kafka, Kafka Connect, Kafka Streams e outras ferramentas do seu ecossistema.
 
-💼 Abordagens
+💼 Abordagens <br>
 Dentro do desenvolvimento, busco implementar as principais boas práticas da engenharia de software, como o SOLID para os sistemas orientados a objetos, e o uso de patterns como DDD, TDD e Clean Architecture, para uma melhor performance de trabalho em grupo, mantendo a qualidade de software em um contexto ágil. 
 
 <hr>
