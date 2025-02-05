@@ -1,18 +1,14 @@
-📌 Sou desenvolvedor de software Full stack, com proficiência nos ecossistemas do Java, Kotlin e Node. Profissionalmente possuo experiência desde sistemas legados, até tecnologias mais atuais. Atuei em várias etapas do desenvolvimento de software, como desenvolvimento de features, testes unitários, testes de integração, CI/CD, e participação ativa na análise da regra de negócio. Tenho atuação como engenheiro de dados, utilizando o sistema de mensageria Kafka, com suas ferramentas KsqlDB, Kafka Connect, Kafka Streams, e outras do seu ecossistema. Kubernetes, Docker, Github Actions, Jenkins e Grafana são algumas das ferramentas infraestruturais que possuo experiência
+📌 Software Developer com solida experiência em desenvolvimento backend, especializado na criação de soluções tecnológicas para melhor eficiência e desempenho de sistemas complexos.
 
-Segue abaixo stacks que possuo experiência:
+🛠️ Habilidades técnicas <br>
+Linguagens: Java, Kotlin, Javascript/Typescript, SQL. <br>
+Frameworks: Spring Boot, Nest, Express, Fastify, React.js <br>
+Banco de dados: PostgreSQL, MongoDB, Oracle e Redis. <br>
+ORMs: Hibernate, JPA, Prisma, Mongoose <br>
+Ferramentas: Git, Kafka, RabbitMQ, Jenkins, SonarQube, AWS, Azure, Docker, Kubernetes. <br>
+Outros: Agile (Scrum), Jira, microservices, APIs Rest, SOAP, GraphQL, JUnit, Jest, Vitest, Clean Architecure, Hexagonal architecture, SOLID, Clean Code.
 
-🖥Linguagens e Frameworks <br>
-Java, Kotlin, Typescript, Javascript, Node, Spring Boot, JPEE, JSF, Nest, Express, Fastify, HTML, CSS, React e JQuery.
-
-🗄 Banco de dados <br>
-PostgreSQL, SQL Server, Oracle, MySQL, MongoDB, Hibernate, Prisma e Mongoose.
-
-⚙️Ferramentas, testes e pipelines. <br>
-Possuo experiências profissionais e pessoais com as ferramentas Docker e Kubernetes. Uso de frameworks de testes com JUnit, Jest e Vitest. Realização de processos de CI, juntamente com controle de qualidade com Jenkins, Github Actions e SonarQube. Realização de tratamento e manejo de dados via sistemas de mensageria com Kafka, Kafka Connect, Kafka Streams e outras ferramentas do seu ecossistema.
-
-💼 Abordagens <br>
-Dentro do desenvolvimento, busco implementar as principais boas práticas da engenharia de software, como o SOLID para os sistemas orientados a objetos, e o uso de patterns como DDD, TDD e Clean Architecture, para uma melhor performance de trabalho em grupo, mantendo a qualidade de software em um contexto ágil. 
+🎯 Meu foco é seguir evoluindo como engenheiro de software, desenvolvendo sistemas cada vez mais robustos e solucionando problemas complexos.
 
 <hr>
 
